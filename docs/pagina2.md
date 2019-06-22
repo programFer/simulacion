@@ -2,6 +2,7 @@
 
 title: Building this website
 author: Example Author
+layout: spec
 
 ---
 
