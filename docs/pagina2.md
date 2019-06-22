@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Building this website
 author: Example Author
 ---
