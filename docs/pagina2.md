@@ -1,7 +1,8 @@
-
 ---
+
 title: Building this website
 author: Example Author
+
 ---
 
 # Welcome to the new post
