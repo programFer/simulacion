@@ -21,9 +21,7 @@ var theAnswer = 42;
 
 # Matemáticas con MathJax
 
-Podemos escribir en $$\LaTeX$$ fórmulas y ecuaciones:
-
-$$ e^{i\tau} - 1 = 0 $$
+![formula](https://latex.codecogs.com/gif.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
 
 # Notas y abreviaturas
 
